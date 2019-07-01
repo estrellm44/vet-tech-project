@@ -1,0 +1,12 @@
+[29-Apr-2018 20:55:53 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/student/list.php on line 7
+[29-Apr-2018 20:55:53 UTC] PHP Stack trace:
+[29-Apr-2018 20:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/student/list.php:0
+[29-Apr-2018 20:55:53 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/student/list.php on line 7
+[29-Apr-2018 20:55:53 UTC] PHP Stack trace:
+[29-Apr-2018 20:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/student/list.php:0
+[29-Apr-2018 20:55:53 UTC] PHP Fatal error:  Class 'StudentViewer' not found in /home/ubuntu/workspace/student/list.php on line 63
+[29-Apr-2018 20:55:53 UTC] PHP Stack trace:
+[29-Apr-2018 20:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/student/list.php:0
+[29-Apr-2018 20:56:43 UTC] PHP Fatal error:  Class 'StudentViewer' not found in /home/ubuntu/workspace/student/list.php on line 63
+[29-Apr-2018 20:56:43 UTC] PHP Stack trace:
+[29-Apr-2018 20:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/student/list.php:0
